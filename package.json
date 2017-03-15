@@ -18,7 +18,7 @@
   "email": "jyu213@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "ssh2": "^0.4.13"
+    "ssh2": "git+https://github.com/vinniecent/ssh2.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",
